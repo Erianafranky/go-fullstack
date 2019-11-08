@@ -2,7 +2,8 @@
 
 This is an app created for practice using MongoDB, Express and Node.js
 
-#Setting up the environment
+# Setting up the environment
+
 1. Go to nodejs.org and download then install the latest version
 2. Install Angular using npm install -g @angular/cli
 3. Install nodemon using npm install -g nodemon
